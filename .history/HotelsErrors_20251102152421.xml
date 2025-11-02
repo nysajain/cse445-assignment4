@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- ERROR 1: Root element name is "Hotel" instead of "Hotels" -->
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-    xsi:noNamespaceSchemaLocation="Hotels.xsd">
+       xsi:noNamespaceSchemaLocation="Hotels.xsd">
     
     <!-- Hotel 1 - Example from assignment -->
     <Hotel Rating="4.2">
