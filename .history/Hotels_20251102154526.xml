@@ -42,25 +42,25 @@
     <Phone>480-303-9400</Phone>
     <Phone>800-633-7313</Phone>
     <Address Number="1413" NearestAirport="Sky Harbor">
-    <Street>W Rio Salado Pkwy</Street>
-    <City>Tempe</City>
-    <State>AZ</State>
-    <Zip>85281</Zip>
+      <Street>W Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
     </Address>
-</Hotel>
+  </Hotel>
 
-<Hotel Rating="3.8">
+  <Hotel Rating="3.8">
     <Name>Hampton Inn Phoenix Airport North</Name>
     <Phone>602-244-1919</Phone>
     <Address Number="501" NearestAirport="Sky Harbor">
-    <Street>N 44th St</Street>
-    <City>Phoenix</City>
-    <State>AZ</State>
-    <Zip>85008</Zip>
+      <Street>N 44th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
     </Address>
-</Hotel>
+  </Hotel>
 
-<Hotel Rating="4.6">
+  <Hotel Rating="4.6">
     <Name>Sheraton Phoenix Downtown</Name>
     <Phone>602-262-2500</Phone>
     <Phone>888-627-7033</Phone>
