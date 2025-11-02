@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+    
+    <!-- Hotel 1 - Example from assignment (with optional NearestAirport) -->
+    <Hotel Rating="4.2">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address Number="11" NearestAirport="Sky Harbor">
+            <Street>E 7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+    
+    <!-- Hotel 2 - With optional NearestAirport -->
+    <Hotel Rating="4.5">
+        <Name>Marriott Tempe</Name>
+        <Phone>480-966-2424</Phone>
+        <Phone>888-236-2427</Phone>
+        <Address Number="2101" NearestAirport="Sky Harbor">
+            <Street>E Broadway Rd</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85282</Zip>
+        </Address>
+    </Hotel>
+    
+    <!-- Hotel 3 - WITHOUT optional NearestAirport -->
+    <Hotel Rating="4.0">
+        <Name>Hilton Phoenix Airport</Name>
+        <Phone>602-997-4000</Phone>
+        <Address Number="2435">
+            <Street>S 47th St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85034</Zip>
+        </Address>
+    </Hotel>
+    
+    <!-- Hotel 4 - With optional NearestAirport -->
+    <Hotel Rating="4.3">
+        <Name>Hyatt Place Tempe</Name>
+        <Phone>480-303-9400</Phone>
+        <Phone>800-633-7313</Phone>
+        <Address Number="1413" NearestAirport="Sky Harbor">
+            <Street>W Rio Salado Pkwy</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+    
+    <!-- Hotel 5 - WITHOUT optional NearestAirport -->
+    <Hotel Rating="3.8">
+        <Name>Hampton Inn Phoenix Airport North</Name>
+        <Phone>602-244-1919</Phone>
+        <Address Number="501">
+            <Street>N 44th St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85008</Zip>
+        </Address>
+    </Hotel>
+    
+    <!-- Hotel 6 - With optional NearestAirport -->
+    <Hotel Rating="4.6">
+        <Name>Sheraton Phoenix Downtown</Name>
+        <Phone>602-262-2500</Phone>
+        <Phone>888-627-7033</Phone>
+        <Address Number="340" NearestAirport="Sky Harbor">
+            <Street>N 3rd St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85004</Zip>
+        </Address>
+    </Hotel>
+    
+    <!-- Hotel 7 - WITHOUT optional NearestAirport -->
+    <Hotel Rating="4.1">
+        <Name>Courtyard Phoenix Downtown</Name>
+        <Phone>602-256-0011</Phone>
+        <Address Number="132">
+            <Street>S Central Ave</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85004</Zip>
+        </Address>
+    </Hotel>
+    
+    <!-- Hotel 8 - With optional NearestAirport -->
+    <Hotel Rating="4.4">
+        <Name>Renaissance Phoenix Downtown</Name>
+        <Phone>602-333-0000</Phone>
+        <Phone>800-468-3571</Phone>
+        <Phone>602-333-3333</Phone>
+        <Address Number="50" NearestAirport="Sky Harbor">
+            <Street>E Adams St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85004</Zip>
+        </Address>
+    </Hotel>
+    
+    <!-- Hotel 9 - WITHOUT optional NearestAirport -->
+    <Hotel Rating="3.9">
+        <Name>Holiday Inn Express Tempe</Name>
+        <Phone>480-820-7500</Phone>
+        <Address Number="1520">
+            <Street>W Baseline Rd</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85283</Zip>
+        </Address>
+    </Hotel>
+    
+    <!-- Hotel 10 - With optional NearestAirport -->
+    <Hotel Rating="4.7">
+        <Name>The Camby Hotel</Name>
+        <Phone>602-468-0700</Phone>
+        <Phone>844-880-7272</Phone>
+        <Address Number="2401" NearestAirport="Sky Harbor">
+            <Street>E Camelback Rd</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85016</Zip>
+        </Address>
+    </Hotel>
+    
+    <!-- Hotel 11 - WITHOUT optional NearestAirport -->
+    <Hotel Rating="4.2">
+        <Name>Aloft Tempe</Name>
+        <Phone>480-621-3300</Phone>
+        <Address Number="951">
+            <Street>E Playa Del Norte Dr</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+    
+</Hotels>
