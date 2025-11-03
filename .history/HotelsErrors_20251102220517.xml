@@ -42,15 +42,15 @@
     </Hotel>
     
     <!-- ERROR 4: Hotel 4 - Address element has no closing tag -->
-    <Hotel Rating="4.3">
-        <Name>Hyatt Place Tempe</Name>
-        <Address Number="1413" NearestAirport="Sky Harbor">
-            <Street>W Rio Salado Pkwy</Street>
-            <City>Tempe</City>
-            <State>AZ</State>
-            <Zip>85281</Zip>
-        <!-- Missing </Address> closing tag here -->
-    </Hotel>
+<Hotel Rating="4.3">
+    <Name>Hyatt Place Tempe</Name>
+    <Address Number="1413" NearestAirport="Sky Harbor">
+        <Street>W Rio Salado Pkwy</Street>
+        <City>Tempe</City>
+        <State>AZ</State>
+        <Zip>85281</Zip>
+    <!-- Missing </Address> closing tag here -->
+</Hotel>
     
     <!-- ERROR 5: Hotel 5 - Two Name elements provided -->
     <Hotel Rating="3.8">

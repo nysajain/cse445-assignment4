@@ -41,7 +41,7 @@
         </Address>
     </Hotel>
     
-    <!-- ERROR 4: Hotel 4 - Address element has no closing tag -->
+    <!-- ERROR 4: Hotel 4 - Phone element is missing (only has Name and Address) -->
     <Hotel Rating="4.3">
         <Name>Hyatt Place Tempe</Name>
         <Address Number="1413" NearestAirport="Sky Harbor">
@@ -49,7 +49,6 @@
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>
-        <!-- Missing </Address> closing tag here -->
     </Hotel>
     
     <!-- ERROR 5: Hotel 5 - Two Name elements provided -->
